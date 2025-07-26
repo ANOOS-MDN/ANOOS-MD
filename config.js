@@ -1,3 +1,4 @@
+import process from "node:process";
 require('dotenv').config();
 
 function mapPresence(val) {
